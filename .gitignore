@@ -1,6 +1,10 @@
+#variables de entorno
+.emv
 # compiled output
 /dist
 /node_modules
+/server/node_modules
+/client/node_modules
 
 # compiled output
 /tmp
